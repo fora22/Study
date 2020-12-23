@@ -33,7 +33,7 @@
 
 프로젝트 설명 : https://github.com/JEoN-Ha/Senior-Project/blob/main/README.md
 
-- 현재 [kiJiyeon](https://github.com/kiJiyeon), [dkfma4915](https://github.com/dkfma4915)와 
+- 현재 [kiJiyeon](https://github.com/kiJiyeon), [dkfma4915](https://github.com/dkfma4915)와 같이 진행중
 
 ## [CodingTest](https://github.com/fora22/CodingTest)
 ### 목표
