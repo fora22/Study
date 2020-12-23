@@ -26,6 +26,15 @@
 - 현재 실험은 다 종료했고 작성만 남음
   - 개요 구성 생각해야함
 
+## [Senior-Project](https://github.com/JEoN-Ha/Senior-Project)
+4학년 졸업작품
+
+가명 : Untact Drive Thru
+
+프로젝트 설명 : https://github.com/JEoN-Ha/Senior-Project/blob/main/README.md
+
+- 현재 [kiJiyeon](https://github.com/kiJiyeon), [dkfma4915](https://github.com/dkfma4915)와 
+
 ## [CodingTest](https://github.com/fora22/CodingTest)
 ### 목표
 - [이것이 취업을 위한 코딩테스트다 with 파이썬](https://github.com/ndb796/python-for-coding-test) 책에 있는 예제 및 실전문제 다 풀기
