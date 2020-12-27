@@ -71,3 +71,13 @@
 ## [FlowDebugger 프로젝트](https://github.com/GKO95/UWP.FlowDebugger)
 - 동아리 선배가 회사에서 이거 있으면 좋겠다 싶어서 [UWP](https://docs.microsoft.com/ko-kr/windows/uwp/get-started/universal-application-platform-guide)를 활용하여 만들어보는중
 - 내가 Front, [형](https://github.com/GKO95)이 Back이지만 서로 바쁘다는 핑계로...(사실 내가 안함...)아직 진행이 더딤..ㅎㅎ
+
+# 하고 싶은 것
+## 나만의 인공지능 스피커
+- 호출어는 '하이 포라'
+- Google api를 활용하여 구현
+
+## 나만의 로봇청소기
+- 집에다 하나 해놓고 싶다.
+- 실제 구현 시 들이는 비용이 얼마일지도 궁금함
+- 친구들에게도 만들어주고 싶다.
