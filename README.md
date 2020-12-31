@@ -14,7 +14,7 @@
   - 작업에 해당하는 레포지토리도 상관 없음
 ---
 # In progress
-## Thesis(논문 작성)
+## Paper(논문 작성)
 연구실에서 진행하는 논문 작성
 ### [QR알고리즘을 활용한 ISDIC-MMSE 제안 기법 연구](https://github.com/JEoN-Ha/Research_assistant)
 - 논문지에 내는게 목표
