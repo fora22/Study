@@ -84,5 +84,6 @@
 
 ## 프레셔스 플라스틱
 - 너무나 좋은 프로젝트 같다.
-- 아직 후원 시스템은 없는 듯 한데, 후원이 가능하다면 바로 할 예정.
+- 아직 후원 시스템은 없는 듯 한데, 후원이 가능하다면 바로 할 예정. -> 역시 후원 받고 있었다. 단체는 '[서울환경운동연합](http://ecoseoul.or.kr/)'
+- 그런데 서울 위주의 환경단체라서 조금 고민되는 중에 [플라스틱 방앗간](https://www.youtube.com/watch?v=0eougPjZrd8&ab_channel=%EC%8A%A4%EB%B8%8C%EC%8A%A4%EB%89%B4%EC%8A%A4SUBUSUNEWS)만 후원할 수 있게 해놓기도 했다. 그래서 [여기](https://happybean.naver.com/donations/H000000174744)로 후원 할 예정.
 - 내가 도움을 줄 수 있는 방법은 없을까 고민중.
