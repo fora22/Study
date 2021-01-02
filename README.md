@@ -54,7 +54,7 @@
 - [CreateBlog 레포지토리](https://github.com/fora22/CreateBlog) 만듬 
 - 현재 [JSY8860](https://github.com/JSY8869)와 작업 중
 
-## [C++ Socket 통신](https://github.com/fora22/cpp_Network)
+## [Socket 통신](https://github.com/fora22/cpp_Network)
 - 학교 교수님에게 지도받으면서 하는 Socket 통신 공부
 - 최종적인 목표는 통신 Application(Desktop)을 만드는 것.
 - 2020년 초에 팀원들과 하다가 우선순위에 밀려 보류 됐다가, 현재는 혼자 하는중
