@@ -68,9 +68,7 @@
   - exe 파일로 만들지 못함
   - 방법은 아직 모름
 
-## [FlowDebugger 프로젝트](https://github.com/GKO95/UWP.FlowDebugger)
-- 동아리 선배가 회사에서 이거 있으면 좋겠다 싶어서 [UWP](https://docs.microsoft.com/ko-kr/windows/uwp/get-started/universal-application-platform-guide)를 활용하여 만들어보는중
-- 내가 Front, [형](https://github.com/GKO95)이 Back이지만 서로 바쁘다는 핑계로...(사실 내가 안함...)아직 진행이 더딤..ㅎㅎ
+
 ---
 # 하고 싶은 것
 ## 나만의 인공지능 스피커
@@ -88,3 +86,9 @@
 - 아직 후원 시스템은 없는 듯 한데, 후원이 가능하다면 바로 할 예정. -> 역시 후원 받고 있었다. 단체는 '[서울환경운동연합](http://ecoseoul.or.kr/)'
 - 그런데 서울 위주의 환경단체라서 조금 고민되는 중에 [플라스틱 방앗간](https://www.youtube.com/watch?v=0eougPjZrd8&ab_channel=%EC%8A%A4%EB%B8%8C%EC%8A%A4%EB%89%B4%EC%8A%A4SUBUSUNEWS)만 후원할 수 있게 해놓기도 했다. 그래서 [여기](https://happybean.naver.com/donations/H000000174744)로 후원 할 예정.
 - 내가 도움을 줄 수 있는 방법은 없을까 고민중.
+___
+# 중단 프로젝트
+## [FlowDebugger 프로젝트](https://github.com/GKO95/UWP.FlowDebugger)
+- 동아리 선배가 회사에서 이거 있으면 좋겠다 싶어서 [UWP](https://docs.microsoft.com/ko-kr/windows/uwp/get-started/universal-application-platform-guide)를 활용하여 만들어보는중
+- 내가 Front, [형](https://github.com/GKO95)이 Back이지만 서로 바쁘다는 핑계로...(사실 내가 안함...)아직 진행이 더딤..ㅎㅎ
+- 결국 이야기 후, 중단하기로 결정!
