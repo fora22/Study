@@ -18,13 +18,15 @@
 연구실에서 진행하는 논문 작성
 ### [QR알고리즘을 활용한 ISDIC-MMSE 제안 기법 연구](https://github.com/JEoN-Ha/Research_assistant)
 - 논문지에 내는게 목표
-- 현재 실험은 다 종료했고 작성만 남음
-  - 개요 구성에 맞춰 작성해야함
+- ~현재 실험은 다 종료했고 작성만 남음~
+  - ~개요 구성에 맞춰 작성해야함~
+- 현재 
 
 ### 각도 유도 알고리즘을 통한 로봇팔 제어 연구
 - 학술대회 발표가 목표
-- 현재 실험은 다 종료했고 작성만 남음
-  - 개요 구성 생각해야함
+- ~현재 실험은 다 종료했고 작성만 남음~
+  - ~개요 구성 생각해야함~
+- 작성 완료하였고 수정중
 
 ## [Senior-Project](https://github.com/JEoN-Ha/Senior-Project)
 4학년 졸업작품
@@ -74,11 +76,6 @@
 - [친환경 자동차, 어디까지 알고 있니?](https://blog.kepco.co.kr/1839)
 - [전자레인지는 어떻게 변신할까?](https://blog.kepco.co.kr/1907)
 
-## OPIC 공부
-- 강남 해커스 학원에서 수업 받는 중
-- 1/29(금)에 종강
-- 목표는 IH!!
-
 ---
 # 하고 싶은 것
 ## 나만의 인공지능 스피커
@@ -97,8 +94,14 @@
 - 그런데 서울 위주의 환경단체라서 조금 고민되는 중에 [플라스틱 방앗간](https://www.youtube.com/watch?v=0eougPjZrd8&ab_channel=%EC%8A%A4%EB%B8%8C%EC%8A%A4%EB%89%B4%EC%8A%A4SUBUSUNEWS)만 후원할 수 있게 해놓기도 했다. 그래서 [여기](https://happybean.naver.com/donations/H000000174744)로 후원 할 예정.
 - 내가 도움을 줄 수 있는 방법은 없을까 고민중.
 ___
-# 중단 프로젝트
+# 종료 프로젝트
 ## [FlowDebugger 프로젝트](https://github.com/GKO95/UWP.FlowDebugger)
 - 동아리 선배가 회사에서 이거 있으면 좋겠다 싶어서 [UWP](https://docs.microsoft.com/ko-kr/windows/uwp/get-started/universal-application-platform-guide)를 활용하여 만들어보는중
 - 내가 Front, [형](https://github.com/GKO95)이 Back이지만 서로 바쁘다는 핑계로...(사실 내가 안함...)아직 진행이 더딤..ㅎㅎ
 - 결국 이야기 후, 중단하기로 결정!
+
+## OPIC 공부
+- ~강남 해커스 학원에서 수업 받는 중~
+- ~1/29(금)에 종강~
+- 성적이 만족스럽지 않음...ㅎ
+- 나중에 재도전!
